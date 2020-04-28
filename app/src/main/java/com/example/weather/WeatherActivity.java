@@ -30,7 +30,7 @@ public class WeatherActivity extends AppCompatActivity {
     private ImageView ivImage;
     private SwipeRefreshLayout swipeRefreshLayout;
     private static String AppId = "749561a315b14523a8f5f1ef95e45864";
-    private static String cityQuery = "Warszawa";
+//    private static String cityQuery = "Warsaw";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
